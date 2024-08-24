@@ -1,4 +1,4 @@
-# first_repo
+
 <h1 align="center">Hi 👋, I'm Navya Manaswi</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
